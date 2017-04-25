@@ -1,0 +1,7 @@
+package: .
+import:
+- package: github.com/antage/eventsource
+- package: github.com/go-redis/redis
+  version: ~6.2.5
+- package: github.com/urfave/cli
+  version: ~1.19.1

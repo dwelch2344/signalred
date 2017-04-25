@@ -1,0 +1,10 @@
+hash: 83daec34162a6b7505dc0b341536719a8b5714936df912e8428d885fc69f837a
+updated: 2017-04-25T10:42:21.71273539-06:00
+imports:
+- name: github.com/antage/eventsource
+  version: a89c7cecb559445759c550f76d1b007a67301fa5
+- name: github.com/go-redis/redis
+  version: 5d95eaece6a4a3b68e07419504b6f415f74e90bb
+- name: github.com/urfave/cli
+  version: 0bdeddeeb0f650497d603c4ad7b20cfe685682f6
+testImports: []
